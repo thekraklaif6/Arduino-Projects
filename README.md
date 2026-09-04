@@ -4,7 +4,7 @@ A collection of practical Arduino projects developed to build hands-on experienc
 
 Each project focuses on applying programming and electronics concepts to a functional system, with the code, documentation, and project images organized separately for clarity.
 
-## Projects
+## 📌Projects
 
 ### 🔐 Smart Door Security System
 
