@@ -19,40 +19,40 @@ An Arduino-based door security system that provides access through **password au
 
 Complete view of the Arduino-based security system.
 
-![System Overview](Images/01.jpg)
+![System Overview](images/01.jpg)
 
 ### 02 — Password Input
 
 The user enters the password using the keypad, with the digits hidden on the LCD.
 
-![Password Input](Images/02.jpg)
+![Password Input](images/02.jpg)
 
 ### 03 — Access Denied
 
 An incorrect password is detected and the first failed attempt is displayed.
 
-![Access Denied](Images/03.jpg)
+![Access Denied](images/03.jpg)
 
 ### 04 — System Locked
 
 After two incorrect password attempts, the system temporarily locks access.
 
-![System Locked](Images/04.jpg)
+![System Locked](images/04.jpg)
 
 ### 05 — Access Granted
 
 The correct password is entered and access is successfully granted.
 
-![Access Granted](Images/05.jpg)
+![Access Granted](images/05.jpg)
 
 ### 06 — Card Verified
 
 An authorized RFID card is successfully verified.
 
-![Card Verified](Images/06.jpg)
+![Card Verified](images/06.jpg)
 
 ### 07 — Invalid Card
 
 An unauthorized RFID card is detected and access is denied.
 
-![Invalid Card](Images/07.jpg)
+![Invalid Card](images/07.jpg)
