@@ -14,4 +14,4 @@ A practical embedded security system demonstrating **user authentication, input 
 
 ---
 
-*More projects will be added as I continue developing my embedded systems and electronics skills.*
+
