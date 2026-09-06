@@ -13,6 +13,7 @@ An Arduino-based smart security system designed to control access to a door. The
 The project combines **Arduino programming, RFID communication, user input, access-control logic, and hardware control**, with **LCD, LED, and buzzer feedback** to display the system status and access result.
 
 This project demonstrates practical experience in **embedded systems, hardware integration, programming logic, and building an interactive security system**.
+
 [View Project README →](./Smart-Door-Security-System/README.md)
 
 ---
