@@ -25,6 +25,7 @@ The system uses **DHT11, LDR, and water level sensors** to collect environmental
 
 This project demonstrates practical experience in **sensor integration, real-time monitoring, Arduino programming, automatic control, hardware integration, and system-based decision making**.
 
+[View Project README →](./Smart-Environmental-Monitoring-System/README.md)
 ---
 
 
