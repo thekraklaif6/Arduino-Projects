@@ -8,8 +8,11 @@ Each project focuses on applying programming and electronics concepts to a funct
 
 ### 🔐 Smart Door Security System
 
-A practical embedded security system demonstrating **user authentication, input handling, system states, and hardware feedback** through an Arduino-based implementation.
+An Arduino-based smart security system designed to control access to a door. The system uses **RFID and password authentication** to verify users and determine whether access should be granted or denied.
 
+The project combines **Arduino programming, RFID communication, user input, access-control logic, and hardware control**, with **LCD, LED, and buzzer feedback** to display the system status and access result.
+
+This project demonstrates practical experience in **embedded systems, hardware integration, programming logic, and building an interactive security system**.
 [View Project README →](./Smart-Door-Security-System/README.md)
 
 ---
