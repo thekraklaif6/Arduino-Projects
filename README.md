@@ -16,6 +16,7 @@ This project demonstrates practical experience in **embedded systems, hardware i
 
 [View Project README →](./Smart-Door-Security-System/README.md)
 
+---
 
 ### 🌱 Smart Environmental Monitoring System
 
