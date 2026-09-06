@@ -16,6 +16,15 @@ This project demonstrates practical experience in **embedded systems, hardware i
 
 [View Project README →](./Smart-Door-Security-System/README.md)
 
+
+### 🌱 Smart Environmental Monitoring System
+
+An Arduino-based environmental monitoring system designed to measure and monitor **temperature, humidity, light intensity, and water level** in real time.
+
+The system uses **DHT11, LDR, and water level sensors** to collect environmental data and displays the readings on an **LCD screen**. It also uses **LED and buzzer alerts** to indicate unsafe conditions and automatically controls a **fan when the temperature reaches a defined threshold**.
+
+This project demonstrates practical experience in **sensor integration, real-time monitoring, Arduino programming, automatic control, hardware integration, and system-based decision making**.
+
 ---
 
 
