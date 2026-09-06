@@ -49,18 +49,6 @@ The system uses a **red LED, green LED, and buzzer** to indicate the current sys
 - 🔴 **Red LED ON:** A danger condition has been detected.
 - 🔊 **Buzzer ON:** An audible warning is activated when a danger condition is detected.
 
-A danger condition occurs when:
-
-- Temperature ≥ **30°C**, or
-- Water level < **15%**
-
-### 💨 Automatic Fan Control
-
-The DC motor with the fan blade is used as an automatic cooling system.
-
-- Temperature < 30°C → **Fan OFF**
-- Temperature ≥ 30°C → **Fan ON**
-
 ---
 
 ## 📸 Project Gallery
